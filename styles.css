@@ -215,4 +215,8 @@ body
     {
         margin-top: 5%;
     }
+    .card
+    {
+        align-items: center;
+    }
 }
