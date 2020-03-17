@@ -206,6 +206,7 @@ body
     .section-1 .card 
     {
         width: 15rem;
+        margin-left: 27%;
     }
     .section-4 .col-md-5
     {
@@ -214,9 +215,5 @@ body
     footer input[type="button"]
     {
         margin-top: 5%;
-    }
-    .card
-    {
-        margin-left:30%;
     }
 }
