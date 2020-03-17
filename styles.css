@@ -218,5 +218,6 @@ body
     .card
     {
         align-items: center;
+        margin-left:20%;
     }
 }
